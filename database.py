@@ -2,12 +2,6 @@
 
 
 
-
-
-
-
-
-
 import sqlite3
 
 # A separate database file keeps the older project database safe.
