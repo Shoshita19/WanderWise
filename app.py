@@ -6,9 +6,6 @@
 
 
 
-
-
-
 from flask import Flask, render_template, request, jsonify
 from database import connect_database, setup_database
 
